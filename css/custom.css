@@ -1,0 +1,68 @@
+.bg-light {
+    background-color: #02b3e4 !important;
+}
+
+
+#navbarSupportedContent {
+    flex-flow: row-reverse;
+}
+
+
+.header {
+    text-align: right;
+}
+
+
+#top {
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#title-block {
+    font-size: 1em;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+
+#footer {
+    text-align: center;
+}
+
+
+.article {
+    text-align: center;
+}
+
+
+.nav-item {
+    text-align: right;
+}
+
+
+.jumbotron {
+    background-image: url("../img/jumbotron.jpg");
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+
+.card {
+    margin-bottom: 25px;
+    width: 18rem;
+}
+
+
+.container {
+    max-width: 100%;
+}
+
+
+#projects {
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
